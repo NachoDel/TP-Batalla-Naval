@@ -35,8 +35,8 @@ import pygame
 pygame.init()
 pygame.mixer.init()
 
-sonido_acertado = pygame.mixer.Sound("acertado.wav")
-sonido_fallado = pygame.mixer.Sound("fallado.wav")
+sonido_acertado = pygame.mixer.Sound("c:/Users/ignac/OneDrive/FACU/2024/Ing. Software/TP Batalla Naval/acertado.wav")
+sonido_fallado = pygame.mixer.Sound("c:/Users/ignac/OneDrive/FACU/2024/Ing. Software/TP Batalla Naval/fallado.wav")
 
 FILAS = 5
 COLUMNAS = 5
